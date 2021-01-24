@@ -14,6 +14,6 @@ Unityでルール画像を使ったフェードイン、フェードアウトが
 
 https://github.com/neuecc/UniRx/blob/master/LICENSE
 
-## Dotween
+## DOTween
 
 http://dotween.demigiant.com/license.php
